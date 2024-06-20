@@ -1,0 +1,59 @@
+
+#data-list {
+
+  width:100%;
+	height:auto;
+
+ 
+}
+
+ #data-list ,th, td {
+  text-align: left;
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding:10px 20px;
+}
+
+
+#data-list th {
+	
+  background-color: #84e6bc;
+  
+}
+
+#data-list td {
+  background-color: #d3be96;
+}
+
+#data-list .op-btn{	
+	text-align:center;
+}
+
+
+#data-list .operation-btn{
+  padding:5px 10px;
+  background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+  color: black;	
+  border-radius: 25px;
+  border:2px solid  white;
+  text-decoration:none;
+ 
+}
+
+
+#data-list .operation-btn:hover{
+  background-color: green;
+  color: white;	
+   border-radius: 25px;
+  border:2px solid  white ;
+ 
+}
+
+span{
+	color:white;
+}
+
+
+
+
+
